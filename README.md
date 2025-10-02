@@ -36,8 +36,8 @@ on GitHub.
 Clone the repository and run Python:
 
 ``` bash
-git clone https://github.com/<your-user>/RSA-CLI.git
-cd RSA-CLI
+git clone https://github.com/VictorGauthier123/RSA_HOMEMADE.git
+cd rsa_homemade
 python main.py
 ```
 
